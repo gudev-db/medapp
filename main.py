@@ -9,7 +9,7 @@ from datetime import datetime
 # Configuração inicial
 st.set_page_config(
     layout="wide",
-    page_title="Health Report Assistant",
+    page_title="ConsultAÍ",
     page_icon="⚕️"
 )
 

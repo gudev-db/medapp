@@ -137,6 +137,7 @@ pyarrow==19.0.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
+PyPDF2
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydeck==0.9.1

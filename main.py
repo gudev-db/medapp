@@ -119,7 +119,7 @@ def extract_text_from_pdf(uploaded_file):
     return text
 
 # Interface principal
-st.title("⚕️ Health Report Assistant")
+st.title("⚕️ ConsultAÍ")
 st.caption("Entenda seus exames médicos e cuide melhor da sua saúde")
 
 uploaded_file = st.file_uploader("Carregue seu relatório médico (PDF)", type="pdf")
